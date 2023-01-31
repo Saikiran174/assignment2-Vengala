@@ -2,4 +2,4 @@
 Information about myself.
 My Name is Vengala Sai Kiran.I am from India,Andhra pradesh,Vijayawada.We are four members in my family Father mother younger sister and me.And i recently completed my undergraduation at vvit collage guntur.And now i have intend to pursue my masters in applied computer science at "northwest missouri state university".I have more intrest on playing cricket and learning new technologies.My futute goal is to complete my masters and secure a job in good reputated company.
 
-**[To view my picture](Image of mine.jpeg)** 
+[To view my picture](https://github.com/Saikiran174/assignment2-Vengala/blob/main/Image%20of%20mine.jpeg)
