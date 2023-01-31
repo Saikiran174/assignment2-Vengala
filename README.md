@@ -6,6 +6,6 @@ Cricketers break records almost in every tournment, **Which is one of the most e
 MY FAVOURITE TEAM
 ----------------
 MUMBAI INDAINS  
-1) Rohit sharma 
-2) Hardik pandya 
-3) Pollard 
+1. Rohit sharma 
+2. Hardik pandya 
+3. Pollard 
