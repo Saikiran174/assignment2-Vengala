@@ -9,3 +9,12 @@ MUMBAI INDAINS
 1. Rohit sharma 
 2. Hardik pandya  
 3. Pollard  
+
+The other teams that goods to watch play
+
+* CHENNAI SUPER KINGS
+    * Dhoni
+* ROYAL CHALLANGERS BANGOLORE
+    * Virat kohli
+* DELHI CAPITALS
+    * David warner         
