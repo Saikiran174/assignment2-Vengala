@@ -1,4 +1,6 @@
+---
 # SAI KIRAN VENGALA
+
 **Information about myself :**<br>
 My Name is Vengala Sai Kiran.I am from India,Andhra pradesh,Vijayawada.We are four members in my family Father mother younger sister and me.And i recently completed my undergraduation at vvit collage guntur.And now i have intend to pursue my masters in applied computer science at "northwest missouri state university".I have more intrest on playing cricket and learning new technologies.My futute goal is to complete my masters and secure a job in good reputated company.
 
@@ -8,6 +10,7 @@ My Name is Vengala Sai Kiran.I am from India,Andhra pradesh,Vijayawada.We are fo
 
 
 **COUNTRIES THAT I CAN RECOMAND TO VISIT IS LISTED IN A GIVEN TABLE.**
+-------------------------------------------------------------------------
 
 In this given below table that explains the countries to visit which i recomand to go and explore,because i love exploring the hiden places which has more attraction.
 
@@ -18,5 +21,15 @@ In this given below table that explains the countries to visit which i recomand 
 | UK        |  Famous for history   |    35 Days      |
 | France    |  Famous for views     |    25 Days      |
 
+---
+**PITHY QUOTES**
+----------------
+>I do not want the peace which passeth understanding, I want the
+understanding which bringeth peace.
+>>   Author- _Helen Keller_
+
+>People seldom do what they believe in, they do what is
+convenient, and then repent. 
+>>   Author- *Bob Dylan*
 
 
