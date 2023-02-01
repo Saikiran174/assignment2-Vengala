@@ -25,9 +25,9 @@ Countries that i can recomand to visit,that lists in a given table
 ------------------------------------------------------------------
 In this given below table that explains the countries to visit which i recomand to go and explore,because i love exploring the hiden places which has more attraction.
 
-|# Country |# Reason why i choose  |# How many days|
-|   -----  |        -----          |    -----      |
-| India    |  Beauty of cultre     |    28 Days    |
-| USA      |  Famous for food      |    30 Days    |
-| UK       |  Famous for history   |    35 Days    |
-| France   |  Famous for views     |    25 Days    |
+|**Country**|**Reason why i choose**|**How many days**|
+|   -----   |        -----          |      -----      |
+| India     |  Beauty of cultre     |    28 Days      |
+| USA       |  Famous for food      |    30 Days      |
+| UK        |  Famous for history   |    35 Days      |
+| France    |  Famous for views     |    25 Days      |
