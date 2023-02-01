@@ -40,13 +40,11 @@ convenient, and then repent.
 Quick link<https://support.knowledgeowl.com/help/automatic-copyright-year>
 
 
-,,,
-<?php function auto_copyright($year = 'auto'){ ?>
-   <?php if(intval($year) == 'auto'){ $year = date('Y'); } ?>
-   <?php if(intval($year) == date('Y')){ echo intval($year); } ?>
-   <?php if(intval($year) < date('Y')){ echo intval($year) . ' - ' . date('Y'); } ?>
-   <?php if(intval($year) > date('Y')){ echo date('Y'); } ?>
-<?php } ?>
-,,,
+```
+
+<?php auto_copyright(); // 2011?>
+
+<?php auto_copyright("2010");  // 2010 - 2017 ?>
+```
 
 Quick link for the above code<https://css-tricks.com/snippets/php/automatic-copyright-year/>
