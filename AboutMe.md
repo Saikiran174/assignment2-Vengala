@@ -1,7 +1,7 @@
----
 # SAI KIRAN VENGALA
 
-**Information about myself :**<br>
+**Information about myself** :<br>
+-----------------------------------
 My Name is Vengala Sai Kiran.I am from India,Andhra pradesh,Vijayawada.We are four members in my family Father mother younger sister and me.And i recently completed my undergraduation at vvit collage guntur.And now i have intend to pursue my masters in applied computer science at "northwest missouri state university".I have more intrest on playing cricket and learning new technologies.My futute goal is to complete my masters and secure a job in good reputated company.
 
 ![Its my image](https://github.com/Saikiran174/assignment2-Vengala/blob/f17a85257a70763a7f4a7629384ab0d45d4bd8f9/Image%20of%20mine.jpeg)
@@ -9,7 +9,7 @@ My Name is Vengala Sai Kiran.I am from India,Andhra pradesh,Vijayawada.We are fo
 ---
 
 
-**COUNTRIES THAT I CAN RECOMAND TO VISIT IS LISTED IN A GIVEN TABLE.**
+**CREATING A TABLE**
 -------------------------------------------------------------------------
 
 In this given below table that explains the countries to visit which i recomand to go and explore,because i love exploring the hiden places which has more attraction.
