@@ -32,4 +32,21 @@ understanding which bringeth peace.
 convenient, and then repent. 
 >>   Author- *Bob Dylan*
 
+---
+**CODE FENSING**
+----------------
+>Automatic Copyright Year!
 
+Quick link<https://support.knowledgeowl.com/help/automatic-copyright-year>
+
+
+,,,
+<?php function auto_copyright($year = 'auto'){ ?>
+   <?php if(intval($year) == 'auto'){ $year = date('Y'); } ?>
+   <?php if(intval($year) == date('Y')){ echo intval($year); } ?>
+   <?php if(intval($year) < date('Y')){ echo intval($year) . ' - ' . date('Y'); } ?>
+   <?php if(intval($year) > date('Y')){ echo date('Y'); } ?>
+<?php } ?>
+,,,
+
+Quick link for the above code<https://css-tricks.com/snippets/php/automatic-copyright-year/>
